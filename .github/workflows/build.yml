@@ -36,3 +36,4 @@ jobs:
         with:
           name: AudioBlindPainter_Setup
           path: dist/AudioBlindPainter_Setup.exe
+ 
